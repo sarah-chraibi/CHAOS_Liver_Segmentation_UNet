@@ -34,9 +34,10 @@ Quelques résultats visuels sont disponibles dans le dossier [`results/`](./resu
 
 ## 📸 Exemples de résultats
 
-| Image CT | Masque GT | Prédiction | Prédiction + LCC |
-|----------|-----------|------------|------------------|
-| ![](results/example_0.png) | ![](results/example_1.png) | ![](results/example_2.png) | ![](results/example_3.png) |
+![](results/example_0.png)  
+![](results/example_1.png)  
+![](results/example_2.png)  
+![](results/example_3.png) 
 
 > ⚠️ Les images affichées ici sont issues du jeu de validation.
 
